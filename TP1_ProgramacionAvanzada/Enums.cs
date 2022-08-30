@@ -16,4 +16,11 @@ namespace TP1_ProgramacionAvanzada
         Viernes = 6,
         Sabado = 7
     }
+
+    public enum Color
+    {
+        Verde = 1,
+        Amarillo = 2,
+        Rojo = 3
+    }
 }
