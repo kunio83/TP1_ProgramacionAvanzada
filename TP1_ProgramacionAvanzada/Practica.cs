@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 
 namespace TP1_ProgramacionAvanzada
 {
-    class Program
+    public class Practica
     {
         static void Main(string[] args)
         {
